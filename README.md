@@ -1,4 +1,4 @@
-<h1>Hello I'm Georgmany, an <a href="https://www.linkedin.com/in/georgmanyruiz/">IT Specialist</a></h1>
+<h1>Hello I'm Georgmany, an <a href="https://www.linkedin.com/in/georgmanyruiz/">IoT/IT Specialist</a></h1>
 
 <h2>🖥️ Information Technology Projects🖥</h2>
 
