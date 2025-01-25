@@ -8,6 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/GeorgmanyRuiz/ticket-lifecycle-)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/GeorgmanyRuiz/Setting-up-VPN)
+- <b>Netflix Webapp Clone</b>
+  - [Webapp Using Google Firebase](https://github.com/GeorgmanyRuiz/netflix-clone)
 
 <h2>📩Contact Me</h2>
 
