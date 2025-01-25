@@ -24,4 +24,4 @@
 [<img align="left" alt="Georgmany | Gmail" width="22px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" />][gmail]
 
 [linkedin]:https://www.linkedin.com/in/georgmanyruiz/
-[gmail]:Georgmanyruiz90@gmail.com
+[gmail]:mailto:Georgmanyruiz90@gmail.com
