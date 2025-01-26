@@ -1,8 +1,8 @@
 <h1>Hello I'm Georgmany, an <a href="https://www.linkedin.com/in/georgmanyruiz/">IoT/IT Specialist</a></h1>
 
-<h2> Information Technology Projects</h2>
+<h2>💻 Information Technology Projects</h2>
 
-- <b> osTicket: Creating a Ticketing System for Help Desk </b>
+- <b>osTicket: Creating a Ticketing System for Help Desk </b>
   - [osTicket: Prerequisites and Installation](https://github.com/GeorgmanyRuiz/os-ticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/GeorgmanyRuiz/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/GeorgmanyRuiz/ticket-lifecycle-)
@@ -15,7 +15,7 @@
  
 <h2> Web Development Projects </h2>
 
-- <b>Netflix Webapp Clone</b>
+- <b> Netflix Webapp Clone</b>
   - [Webapp Using Google Firebase](https://github.com/GeorgmanyRuiz/netflix-clone)
 
 <h2>Contact Me 📩</h2>
