@@ -3,7 +3,7 @@
 <h2>🖥️🛡️ CyberSecurity Projects</h2>
 
 - <b>FlareVM Malware Analysis Lab</b>
-  - [FlareVM Setup in Windows Virtual Machine ](https://github.com/GeorgmanyRuiz/FlareVM-Malware-Analysis-Lab/)
+  - [FlareVM Malware Analysis Setup in Windows Virtual Machine ](https://github.com/GeorgmanyRuiz/FlareVM-Malware-Analysis-Lab/)
 
 <h2>💻 Information Technology Projects</h2>
 
