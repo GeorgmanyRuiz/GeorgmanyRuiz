@@ -1,5 +1,10 @@
 <h1>Hello I'm Georgmany, an <a href="https://www.linkedin.com/in/georgmanyruiz/">IoT/IT Specialist</a></h1>
 
+<h2>🖥️🛡️ CyberSecurity Projects</h2>
+
+- <b>FlareVM Malware Analysis Lab</b>
+  - [FlareVM Setup in Windows Virtual Machine ](https://github.com/GeorgmanyRuiz/FlareVM-Malware-Analysis-Lab/)
+
 <h2>💻 Information Technology Projects</h2>
 
 - <b>osTicket: Creating a Ticketing System for Help Desk </b>
@@ -13,7 +18,7 @@
   - [VPN Setup in Virtual Machine ](https://github.com/GeorgmanyRuiz/Setting-up-VPN)
 
  
-<h2> Web Development Projects </h2>
+<h2>💻 Web Development Projects </h2>
 
 - <b> Netflix Webapp Clone</b>
   - [Webapp Using Google Firebase](https://github.com/GeorgmanyRuiz/netflix-clone)
