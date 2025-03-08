@@ -2,8 +2,14 @@
 
 <h2>🖥️🛡️ CyberSecurity Projects</h2>
 
+<h3>🔷Blue Team</h3>
+
 - <b>FlareVM Malware Analysis Lab</b>
-  - [FlareVM Malware Analysis Setup in Windows Virtual Machine ](https://github.com/GeorgmanyRuiz/FlareVM-Malware-Analysis-Lab/)
+  - [FlareVM Malware Analysis Setup in Windows Virtual Machine](https://github.com/GeorgmanyRuiz/FlareVM-Malware-Analysis-Lab)</br>
+<h3>🟥Red Team</h3>
+
+- <b>Python KeyLogger</b>
+  - [Creating a KeyLogger with Python ](https://github.com/GeorgmanyRuiz/Python-Keylogger)
 
 <h2>💻 Information Technology Projects</h2>
 
@@ -20,7 +26,7 @@
  
 <h2>💻 Web Development Projects </h2>
 
-- <b> Netflix Webapp Clone</b>
+- <b>🎥Netflix Webapp Clone</b>
   - [Webapp Using Google Firebase](https://github.com/GeorgmanyRuiz/netflix-clone)
 
 <h2>Contact Me 📩</h2>
