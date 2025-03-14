@@ -2,12 +2,8 @@
 
 <h2>🖥️🛡️ CyberSecurity Projects</h2>
 
-<h3>🔷Blue Team</h3>
-
 - <b>FlareVM Malware Analysis Lab</b>
   - [FlareVM Malware Analysis Setup in Windows Virtual Machine](https://github.com/GeorgmanyRuiz/FlareVM-Malware-Analysis-Lab)</br>
-<h3>🟥Red Team</h3>
-
 - <b>Python KeyLogger</b>
   - [Creating a KeyLogger with Python ](https://github.com/GeorgmanyRuiz/Python-Keylogger)
 
